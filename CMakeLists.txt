@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+add_subdirectory(factorial)
+add_subdirectory(fibonacci)
+add_subdirectory(fizz_buzz)
+add_subdirectory(prime)
+add_subdirectory(triangle)
